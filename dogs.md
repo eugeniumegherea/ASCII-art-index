@@ -1,5 +1,5 @@
-# Cats
-taken from http://www.asciiworld.com/-Cats-.html
+# Dogs
+taken from https://www.asciiart.eu/animals/dogs
 
 ```
   __    __
